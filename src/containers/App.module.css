@@ -33,3 +33,8 @@
   background-color: salmon;
   color: black;
 }
+
+.App button.Gray {
+  background-color: gray;
+  color: black;
+}
